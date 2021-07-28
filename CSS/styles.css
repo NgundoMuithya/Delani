@@ -5,5 +5,9 @@
     margin-left: 140px;
     margin-right: 140px;
     padding: 80px;
+    margin-bottom: 80px;
 };
 
+div.about-us {
+    text-align: center;
+};
