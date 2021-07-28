@@ -1,17 +1,19 @@
-#welcome-card {
+body {
     text-align: center;
+}
+
+#welcome-card {
     background-image: url("/assets/jpg files/backgrounds/h_img.jpg");
     background-size: contain;
     margin-left: 140px;
     margin-right: 140px;
     padding: 80px;
     margin-bottom: 80px;
-};
-div.about-us {
-    text-align: center;
-};
+    color: white;
+    margin-top: 80px;
+}
+
 #services {
-    text-align: center;
     background-image: url("/assets/jpg files/backgrounds/s_image.jpg");
     background-size: contain;
     margin-top: 140px;
@@ -19,4 +21,21 @@ div.about-us {
     margin-right: 140px;
     padding: 80px;
     margin-bottom: 80px;
-};
+    color: white;
+}
+
+#what-we-do {
+    padding-top: 80px;
+}
+
+#design-description {
+    display: none;
+}
+
+#dev-description {
+    display: none;
+}
+
+#product-description {
+    display: none;
+}
