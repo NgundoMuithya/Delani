@@ -45,3 +45,17 @@ body {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+.form-group {
+    padding-bottom: 80px;
+}
+
+form {
+    background-image: url("/assets/jpg files/backgrounds/c_image.jpg");
+    background-size: contain;
+    margin: 140px;
+}
+
+#name-form {
+    padding-top: 80px;
+}
