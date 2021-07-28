@@ -10,7 +10,7 @@ body {
     padding: 80px;
     margin-bottom: 80px;
     color: white;
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 #services {
@@ -58,4 +58,8 @@ form {
 
 #name-form {
     padding-top: 80px;
+}
+
+#social {
+    margin: 120px;
 }
