@@ -1,3 +1,9 @@
 #welcome-card {
     text-align: center;
+    background-image: url("/assets/jpg files/backgrounds/h_img.jpg");
+    background-size: contain;
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 80px;
 };
+
