@@ -65,3 +65,18 @@ form {
     margin: 120px;
 }
 
+.clickable-design:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.clickable-dev:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.clickable-product:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
