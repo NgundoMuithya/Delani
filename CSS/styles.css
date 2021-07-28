@@ -40,3 +40,8 @@ body {
 #product-description {
     display: none;
 }
+
+#portfolio {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
